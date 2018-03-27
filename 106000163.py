@@ -1,4 +1,4 @@
-##106000163
+##10600016300
 
 typing=input("Please type anything")
 d={}
